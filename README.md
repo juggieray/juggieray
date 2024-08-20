@@ -46,7 +46,7 @@ With a strong foundation in both network and software disciplines, I’m always 
 [![My Skills](https://skillicons.dev/icons?i=java,js,c,cpp,html,css,mysql)](https://skillicons.dev)
 
 **Frameworks & Tools:**<br />
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,figma,git,aws,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,flask,figma,git,aws,gcp)](https://skillicons.dev)
 
 **Networking Technologies:** Cisco Packet Tracer, Wireshark, Routing, OSI/TCP-IP, DHCP, Firewalls, LAN/VLANs, STP, ARP, Switching
 
