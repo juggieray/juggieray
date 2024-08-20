@@ -46,4 +46,4 @@ I'm always open to connecting with like-minded individuals and exploring new opp
 - **Location:** San Francisco Bay Area
 - **Phone:** 408.833.4917
   
-Thank you for visiting my profile! I look forward to connecting with you.
+### Thank you for visiting my profile! I look forward to connecting with you.
