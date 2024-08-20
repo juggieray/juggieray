@@ -7,8 +7,8 @@ I'm always open to connecting with like-minded individuals and exploring new opp
 - **Email:** `heereyjuggieray@gmail.com`
 - **LinkedIn:** `[linkedin.com/in/juggierayheerey](https://www.linkedin.com/in/juggierayheerey/)`
 - **Portfolio:** `juggieray.github.io`
-- **Location:** San Francisco Bay Area
 - **Phone:** `408.833.4917`
+- **Location:** San Francisco Bay Area
 
 I'm a fourth-year student at San José State University, majoring in **Engineering Technology - Computer Network Systems Management** with a minor in **Business Administration and Math**. My academic journey and hands-on experience have fueled my passion for **Machine Learning, Information Technology, Network Design, Computer Architecture,** and **Environmental Sustainability**.
 
