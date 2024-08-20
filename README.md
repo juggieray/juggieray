@@ -45,5 +45,6 @@ With a strong foundation in both network and software disciplines, I’m always 
 **Programming Languages:** Java, JavaScript, C, C++, HTML/CSS, Python, SQL  
 **Frameworks & Tools:** React, Next.js, Node.js, Flask, Figma, Git, AWS, Google Firebase  
 **Networking Technologies:** Cisco Packet Tracer, Wireshark, Routing, OSI/TCP-IP, DHCP, Firewalls, LAN/VLANs, STP, ARP, Switching
-  
+
+---
 #### Thank you for visiting my profile! I look forward to connecting with you.
