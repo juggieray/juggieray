@@ -1,6 +1,6 @@
-# Hello, I'm Juggie Ray Heerey 👋
+# Hello, my name is Juggie Ray Heerey! 👋🏻
 
-I'm a fourth-year student at San José State University, majoring in **Engineering Technology - Computer Network Systems Management** with a minor in **Business Administration**. My academic journey and hands-on experience have fueled my passion for **Machine Learning, Information Technology, Network Design, Computer Architecture,** and **Environmental Sustainability**.
+I'm a fourth-year student at San José State University, majoring in **Engineering Technology - Computer Network Systems Management** with a minor in **Business Administration and Math**. My academic journey and hands-on experience have fueled my passion for **Machine Learning, Information Technology, Network Design, Computer Architecture,** and **Environmental Sustainability**.
 
 ## 🚀 About Me
 
