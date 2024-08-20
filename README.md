@@ -51,4 +51,4 @@ With a strong foundation in both network and software disciplines, I’m always 
 **Networking Technologies:** Cisco Packet Tracer, Wireshark, Routing, OSI/TCP-IP, DHCP, Firewalls, LAN/VLANs, STP, ARP, Switching
 
 ---
-#### Thank you for visiting my profile! I look forward to connecting with you.
+#### Thank you for visiting my profile! I look forward to connecting and working with you `(:`
