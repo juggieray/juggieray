@@ -6,7 +6,7 @@ I'm always open to connecting with like-minded individuals and exploring new opp
 
 - **Email:** `heereyjuggieray@gmail.com`
 - **LinkedIn:** `[linkedin.com/in/juggierayheerey](https://www.linkedin.com/in/juggierayheerey/)`
-- **Portfolio:** 'juggieray.github.io`
+- **Portfolio:** `juggieray.github.io`
 - **Location:** San Francisco Bay Area
 - **Phone:** `408.833.4917`
 
