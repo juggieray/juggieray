@@ -49,4 +49,4 @@ With a strong foundation in both network and software disciplines, I’m always 
 ---
 #### Thank you for visiting my profile! I look forward to connecting with you.
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,c, cpp, html,css,python,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
