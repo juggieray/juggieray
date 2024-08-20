@@ -1,5 +1,15 @@
 # Hello, my name is Juggie Ray Heerey! 👋🏻
 
+## 📫 Let's Connect
+
+I'm always open to connecting with like-minded individuals and exploring new opportunities. Feel free to reach out!
+
+- **Email:** `heereyjuggieray@gmail.com`
+- **LinkedIn:** `[linkedin.com/in/juggierayheerey](https://www.linkedin.com/in/juggierayheerey/)`
+- **Portfolio:** 'juggieray.github.io`
+- **Location:** San Francisco Bay Area
+- **Phone:** `408.833.4917`
+
 I'm a fourth-year student at San José State University, majoring in **Engineering Technology - Computer Network Systems Management** with a minor in **Business Administration and Math**. My academic journey and hands-on experience have fueled my passion for **Machine Learning, Information Technology, Network Design, Computer Architecture,** and **Environmental Sustainability**.
 
 ## 🚀 About Me
@@ -36,14 +46,5 @@ With a strong foundation in both network and software disciplines, I’m always 
 **Programming Languages:** Java, JavaScript, C, C++, HTML/CSS, Python, SQL  
 **Frameworks & Tools:** React, Next.js, Node.js, Flask, Figma, Git, AWS, Google Firebase  
 **Networking Technologies:** Cisco Packet Tracer, Wireshark, Routing, OSI/TCP-IP, DHCP, Firewalls, LAN/VLANs, STP, ARP, Switching
-
-## 📫 Let's Connect
-
-I'm always open to connecting with like-minded individuals and exploring new opportunities. Feel free to reach out!
-
-- **Email:** heereyjuggieray@gmail.com
-- **LinkedIn:** [linkedin.com/in/juggierayheerey](https://www.linkedin.com/in/juggierayheerey/)
-- **Location:** San Francisco Bay Area
-- **Phone:** 408.833.4917
   
 #### Thank you for visiting my profile! I look forward to connecting with you.
