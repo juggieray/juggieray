@@ -42,8 +42,10 @@ With a strong foundation in both network and software disciplines, I’m always 
 
 ## 🔧 Skills
 
-**Programming Languages:** [![My Skills](https://skillicons.dev/icons?i=java,js,c,cpp,html,css,mysql)](https://skillicons.dev)  
-**Frameworks & Tools:** React, Next.js, Node.js, Flask, Figma, Git, AWS, Google Firebase  
+**Programming Languages:**
+[![My Skills](https://skillicons.dev/icons?i=java,js,c,cpp,html,css,mysql)](https://skillicons.dev)  
+**Frameworks & Tools:** React, Next.js, Node.js, Flask, Figma, Git, AWS, Google Firebase
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,figma,git,aws,gcp)](https://skillicons.dev)
 **Networking Technologies:** Cisco Packet Tracer, Wireshark, Routing, OSI/TCP-IP, DHCP, Firewalls, LAN/VLANs, STP, ARP, Switching
 
 ---
