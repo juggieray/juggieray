@@ -11,9 +11,9 @@ Before you read, please feel free to reach out to me whenever! I am always open 
 
 ## 🚀 About Me
 
-I'm a fourth-year student at San José State University, majoring in **Engineering Technology - Computer Network Systems Management** with a minor in **Business Administration and Math**. My academic journey and hands-on experience have fueled my passion for **Machine Learning, Information Technology, Network Design, Computer Architecture,** and **Environmental Sustainability**.
+I am a fourth-year student at San José State University, majoring in **Engineering Technology - Computer Network Systems Management** with a minor in **Business Administration and Math**! My academic journey and hands-on experience from my past have fueled my passion for **Machine Learning, Software/Cloud-Defined Networking, best Network Design and Optimization practices, Computer Architecture,** and **Business Management with customer-facing issues**.
 
-With a strong foundation in both network and software disciplines, I’m always exploring ways to leverage my skills to create a positive impact. Whether it’s through designing robust networks, crafting efficient software, or integrating cutting-edge technologies, my goal is to contribute meaningfully to the world around me.
+With a strong foundation in both network and software disciplines, I’m always exploring ways to leverage my skills to create a positive impact. Whether it’s through designing robust networks, crafting efficient software, or integrating cutting-edge technologies, my goal is to contribute meaningfully to the world around me!
 
 ## 💻 Experience
 
@@ -54,7 +54,7 @@ With a strong foundation in both network and software disciplines, I’m always 
 **Frameworks & Tools:**<br />
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,flask,figma,git,aws,gcp)](https://skillicons.dev)
 
-**Networking Technologies:** Cisco Packet Tracer, Wireshark, Routing, OSI/TCP-IP, DHCP, Firewalls, LAN/VLANs, STP, ARP, Switching
+**Networking Technologies:** Wireshark, Ansible, Terraform, Cisco Packet Tracer, PuTTY, VMware/Virtualbox, L1 (servers, routers, switches), L2 (STP, ARP, MAC), L3 (IPv4/IPv6, MPLS, GRE, IS-IS), L4 (TCP, UDP, TLS), L5 (S2S/Client VPN Tunnels), L6 (SSL), L7 (FTP, DHCP, DNS, HTTP/s)
 
 ---
 #### Thank you for visiting my profile! I look forward to connecting and working with you `(:`
