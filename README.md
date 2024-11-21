@@ -32,7 +32,7 @@ With a strong foundation in both network and software disciplines, I’m always 
 
 ### Google Computer Science Summer Institute Scholar (CSSI) • Google (Jul 2020 - Aug 2020)
 - Developed coding projects in a team environment, focusing on foundational programming concepts.
-- Gained mentorship from Google engineers and enhanced my skills in HTML/CSS, JavaScript, Python, and more.
+- Gained mentorship from Google engineers and enhanced my skills in HTML/CSS, JavaScript, and Python's PyTorch.
 
 ## 🛠️ Projects
 
